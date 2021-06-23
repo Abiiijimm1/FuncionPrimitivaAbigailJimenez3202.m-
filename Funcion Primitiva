@@ -1,0 +1,5 @@
+clear all
+clc
+syms x
+f=input ("Colocar la Funcion")
+integral=int(f,x)
